@@ -2,7 +2,7 @@
 void test(){
 	for(int a=0;a<5;a++){
 		if(a==4){
-			std::cout<<"test";
+			std::cout<<"testing finished";
 		}else{
 			std::cout<<"test\n";
 		}
@@ -18,7 +18,7 @@ int main (){
 	int a=1;
 	float b=299.5;
 	std::cout<<"testing\n";
-	std::cout<<"testx2\n";
+	std::cout<<"test x2\n";
 	std::cout<<a+b<<std::endl;
 	test();
 	test2();
