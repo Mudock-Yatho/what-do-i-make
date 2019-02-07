@@ -19,7 +19,7 @@ int main (){
 	float b=299.5;
 	std::cout<<"testing\n";
 	std::cout<<"test x2\n";
-	std::cout<<a+b<<std::endl;
+	std::cout<<a+b<<"\n";
 	test();
 	test2();
 	return 0;
