@@ -1,4 +1,4 @@
-# what-do-i-make
+# :clap:
 
 multi-thread example, specify an amount of numbers to output and it uses the amount of threads relative to your cores your processor has, if the amount of instructions is less than the amount of cores you have it uses single-thread mode.
 
